@@ -51,7 +51,7 @@
 <h2 align="left">📫 Connect with Me</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gerard%20Guardales-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerard-g-a134b5284/)
-
+<br>
 ###
 
 <picture>
