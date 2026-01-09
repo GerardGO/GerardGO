@@ -48,6 +48,12 @@
 
 ###
 
+<h2 align="left">📫 Connect with Me</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gerard%20Guardales-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerard-g-a134b5284/)
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GerardGO/GerardGO/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GerardGO/GerardGO/output/github-contribution-grid-snake.svg">
