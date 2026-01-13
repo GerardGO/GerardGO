@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 03/2023 <br>📚 I am passionate about technology and specialize in Backend Development. My experience spans building scalable, secure, and maintainable solutions using both Monolithic and Microservices architectures. I apply strong Object-Oriented Programming (OOP) principles to design robust APIs and efficient data management systems.</p>
+<p align="left">✨ Creating bugs since March 2023 <br>📚 I am passionate about technology and specialize in Backend Development. My experience spans building scalable, secure, and maintainable solutions using both Monolithic and Microservices architectures. I apply strong Object-Oriented Programming (OOP) principles to design robust APIs and efficient data management systems.</p>
 
 ###
 
