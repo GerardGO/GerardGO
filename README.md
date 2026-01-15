@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left"><strong>- Languages:</strong> Java, C# <br><strong>- Frameworks:</strong> Spring Boot (Spring Data JPA), ASP.NET Core (Entity Framework Core)<br><strong>- Databases:</strong> MySQL, SQL Server<br><strong>- Focus:</strong> RESTful APIs, Database Management, Scalability.</p>
+<p align="left"><strong>- Languages:</strong> Java, C# <br><strong>- Frameworks:</strong> Spring Boot (Spring Data JPA, Spring Security, OAuth2), ASP.NET Core (Entity Framework Core)<br><strong>- Databases:</strong> MySQL, SQL Server<br><strong>- Focus:</strong> RESTful APIs, Database Management, Scalability.</p>
 
 
 ###
